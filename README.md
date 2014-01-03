@@ -92,4 +92,4 @@ Security notes
 
 Try to limit the api access to the ip addresses of your instances.
 
-Use your system firewall to protect access to the legion ports from unallowed machine (the secret key should protect you, even from reply attacks, but obviously can be stolen)
+Use your system firewall to protect access to the legion ports from unallowed machine (the secret key should protect you, even from replay attacks, but obviously can be stolen)
