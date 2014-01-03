@@ -1,4 +1,3 @@
-uwsgi-hetzner-failoverip
-========================
-
-A uWSGI legion action for managing hetnzer's failover ip service
+uwsgi-hetzner
+=============
+A uWSGI plugin for integration with hetzner's services (http://www.hetzner.de/en/)
