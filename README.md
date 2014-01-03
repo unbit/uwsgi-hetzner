@@ -60,7 +60,7 @@ The configuration is a bit verbose (expecially if you are used to multicast legi
 
 Each node has different priority (from 9999 to 9997)
 
-The lord action it the 'hetzner-failoverip' one, exposed by the 'hetzner' plugin. This is a keyval based option:
+The lord action is the 'hetzner-failoverip' one, exposed by the 'hetzner' plugin. This is a keyval based option:
 
 ``username`` web api username (required)
 
